@@ -24,7 +24,6 @@
 
 }
 .dash{
-    background-color: #f1f1f1;
     flex-basis: calc(80vw - 6px);
     min-width: 100px;
     border-radius: 7px;
