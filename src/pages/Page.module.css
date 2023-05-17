@@ -1,0 +1,12 @@
+.contentprop{
+    background-color: #e0e0e0;
+    max-height: 50vh;
+    overflow-y: scroll;
+    position: absolute;
+    bottom: 0;
+    width: calc(80vw - 6px);
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
